@@ -1,9 +1,6 @@
 git
 neovim
 nasm
-gdbgit
-neovim
-nasm
 gdb
 build-essential
 gcc-multilib
@@ -21,11 +18,6 @@ npm
 tmux
 ripgrep
 fzf
-curl
-htop
-tree
-build-essential
-python3-pip
 curl
 htop
 tree
